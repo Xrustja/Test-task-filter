@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c40f50d-cc54-4b60-82f8-e7bd57bafa9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test-task-filter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sidebar/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/Table.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/TableCell/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/TableCell/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/ContentRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/APIRequests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/getCharacters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/getCharacters.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21h9uyxmeo3uX4NI6lBLUXjtL43" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/services" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xrust\WebstormProjects\test-task-filter\src\services" />
+      <recent name="C:\Users\xrust\WebstormProjects\test-task-filter\src\components\Table" />
+      <recent name="C:\Users\xrust\WebstormProjects\test-task-filter\src\components\Sidebar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Sidebar renders correctly">
+    <configuration name="Sidebar renders correctly" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Sidebar/Sidebar.spec.js" />
+      <test-names>
+        <test-name value="Sidebar renders correctly" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="component renders correctly" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Table/Table.spec.js" />
+      <test-names>
+        <test-name value="component renders correctly" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should fetch data" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/services/getCharacters.spec.js" />
+      <test-names>
+        <test-name value="should fetch data" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Sidebar renders correctly" />
+        <item itemvalue="Jest.component renders correctly" />
+        <item itemvalue="Jest.should fetch data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c40f50d-cc54-4b60-82f8-e7bd57bafa9a" name="Changes" comment="" />
+      <created>1638382678369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638382678369</updated>
+      <workItem from="1638382679514" duration="64000" />
+      <workItem from="1638382745973" duration="12946000" />
+      <workItem from="1638395780963" duration="10830000" />
+      <workItem from="1638406852851" duration="445000" />
+      <workItem from="1638447119122" duration="7433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

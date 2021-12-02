@@ -1,0 +1,180 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component renders correctly 1`] = `
+<div
+  className="table"
+>
+  <h2
+    className="table__title"
+  >
+     StarWars characters table info
+  </h2>
+  <form
+    className="filter__block"
+    id="comment-form"
+    onSubmit={[Function]}
+  >
+    <input
+      className="filter__input"
+      name="name"
+      onChange={[Function]}
+      placeholder="Type name here"
+      type="text"
+      value=""
+    />
+    <button
+      className="filter__btn"
+      type="submit"
+    >
+      Filter
+    </button>
+  </form>
+  <div
+    className="table__container"
+  >
+    <div
+      className="table__row heading"
+    >
+      <div
+        className="cell"
+      >
+        <p
+          className="cell__name"
+        >
+          Title
+        </p>
+        <div
+          className="cell__filters"
+        >
+          <i
+            className="fas fa-caret-up"
+            onClick={[Function]}
+          />
+          <i
+            className="fas fa-caret-down"
+            onClick={[Function]}
+          />
+        </div>
+      </div>
+      <div
+        className="cell"
+      >
+        <p
+          className="cell__name"
+        >
+          Birth Year
+        </p>
+        <div
+          className="cell__filters"
+        >
+          <i
+            className="fas fa-caret-up"
+            onClick={[Function]}
+          />
+          <i
+            className="fas fa-caret-down"
+            onClick={[Function]}
+          />
+        </div>
+      </div>
+      <div
+        className="cell"
+      >
+        <p
+          className="cell__name"
+        >
+          Height
+        </p>
+        <div
+          className="cell__filters"
+        >
+          <i
+            className="fas fa-caret-up"
+            onClick={[Function]}
+          />
+          <i
+            className="fas fa-caret-down"
+            onClick={[Function]}
+          />
+        </div>
+      </div>
+      <div
+        className="cell"
+      >
+        <p
+          className="cell__name"
+        >
+          Mass
+        </p>
+        <div
+          className="cell__filters"
+        >
+          <i
+            className="fas fa-caret-up"
+            onClick={[Function]}
+          />
+          <i
+            className="fas fa-caret-down"
+            onClick={[Function]}
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="table__row"
+    >
+      <div
+        className="cell"
+      >
+        Luke Skywalker
+      </div>
+      <div
+        className="cell"
+      >
+        123
+      </div>
+      <div
+        className="cell"
+      >
+        172
+      </div>
+      <div
+        className="cell"
+      >
+        77
+      </div>
+    </div>
+    <div
+      className="table__row"
+    >
+      <div
+        className="cell"
+      >
+        C-3PO
+      </div>
+      <div
+        className="cell"
+      >
+        123
+      </div>
+      <div
+        className="cell"
+      >
+        167
+      </div>
+      <div
+        className="cell"
+      >
+        75
+      </div>
+    </div>
+    <button
+      className="btn btn-loadMore "
+      onClick={[Function]}
+    >
+      
+      Load more
+    </button>
+  </div>
+</div>
+`;

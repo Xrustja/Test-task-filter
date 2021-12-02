@@ -1,0 +1,38 @@
+.cell {
+  display: flex;
+  width: 25%;
+  box-sizing: border-box;
+  padding: 5px;
+  align-items: center;
+  font-weight: bold;
+  min-height: 34px;
+  justify-content: center;
+  border-right: 2px solid #2777b7;
+
+  &:last-child {
+    border: none;
+  }
+
+  &__name {
+    margin: 0;
+  }
+
+  &__filters {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+
+    & .fas {
+      font-size: 22px;
+      height: 14px;
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+
+      &.active{
+        color: dodgerblue;
+      }
+    }
+  }
+}
