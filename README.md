@@ -9,6 +9,9 @@ run :
 for testing: 
    - npm test
 
+Time spent about 6 hours
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
